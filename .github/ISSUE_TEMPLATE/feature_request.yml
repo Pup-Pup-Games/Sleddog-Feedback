@@ -66,5 +66,5 @@ body:
     attributes:
       label: Before you submit
       options:
-        - label: I've checked that this isn't already suggested in [open issues](https://github.com/Pup-Pup-Games/sleddog-feedback/issues).
+        - label: I've checked that this isn't already suggested in [open issues](https://github.com/Pup-Pup-Games/Sleddog-Feedback/issues).
           required: true

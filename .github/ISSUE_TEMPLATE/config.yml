@@ -9,7 +9,7 @@ contact_links:
     about: Ask us to export or delete your data. Handled privately, never in a public issue.
 
   - name: Report a security vulnerability
-    url: https://github.com/Pup-Pup-Games/sleddog-feedback/security/advisories/new
+    url: https://github.com/Pup-Pup-Games/Sleddog-Feedback/security/advisories/new
     about: Please report privately through a security advisory rather than opening a public issue.
 
   - name: Community content — help with a submission

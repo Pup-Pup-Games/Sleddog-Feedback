@@ -3,7 +3,7 @@
 ## Reporting a vulnerability
 
 **Please don't open a public issue for a security problem.** Use a
-[private security advisory](https://github.com/Pup-Pup-Games/sleddog-feedback/security/advisories/new)
+[private security advisory](https://github.com/Pup-Pup-Games/Sleddog-Feedback/security/advisories/new)
 instead, or email **security@puppup.games** if you'd rather not use GitHub.
 
 A public report is a working exploit handed to everyone who reads it before we've

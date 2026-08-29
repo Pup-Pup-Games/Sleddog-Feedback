@@ -99,7 +99,7 @@ body:
     attributes:
       label: Before you submit
       options:
-        - label: I've checked that this isn't already reported in [open issues](https://github.com/Pup-Pup-Games/sleddog-feedback/issues).
+        - label: I've checked that this isn't already reported in [open issues](https://github.com/Pup-Pup-Games/Sleddog-Feedback/issues).
           required: true
         - label: This report contains no personal, account, or payment information.
           required: true

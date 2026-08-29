@@ -20,7 +20,7 @@ handle it properly. You will not get a slower answer for using email; if
 anything you'll get a faster one.
 
 Found a security vulnerability? Please use a
-[private security advisory](https://github.com/Pup-Pup-Games/sleddog-feedback/security/advisories/new),
+[private security advisory](https://github.com/Pup-Pup-Games/Sleddog-Feedback/security/advisories/new),
 not a public issue — it gives us a chance to fix it before it's exploitable.
 
 ## Filing a bug
@@ -29,7 +29,7 @@ not a public issue — it gives us a chance to fix it before it's exploitable.
 tells us how many people are hitting it, which is a large part of how things get
 prioritised.
 
-Then use the [bug report form](https://github.com/Pup-Pup-Games/sleddog-feedback/issues/new?template=bug_report.yml).
+Then use the [bug report form](https://github.com/Pup-Pup-Games/Sleddog-Feedback/issues/new?template=bug_report.yml).
 The fields that matter most:
 
 - **Steps to reproduce.** The single most valuable thing in the whole report. A
@@ -45,7 +45,7 @@ lost when it's closed.
 
 ## Requesting a feature
 
-Use the [feature request form](https://github.com/Pup-Pup-Games/sleddog-feedback/issues/new?template=feature_request.yml),
+Use the [feature request form](https://github.com/Pup-Pup-Games/Sleddog-Feedback/issues/new?template=feature_request.yml),
 and **lead with the problem rather than the solution.**
 
 "I want a duplicate button" tells us one way to solve something. "Every session I

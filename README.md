@@ -3,8 +3,8 @@
 <p align="center"><em>Bug reports, feature requests, and the public roadmap for <a href="https://sleddog.tools">Sled Dog</a>, the Stonetop campaign manager.</em></p>
 
 <p align="center">
-  <a href="https://github.com/Pup-Pup-Games/sleddog-feedback/issues/new?template=bug_report.yml"><strong>Report a bug</strong></a> ·
-  <a href="https://github.com/Pup-Pup-Games/sleddog-feedback/issues/new?template=feature_request.yml"><strong>Request a feature</strong></a> ·
+  <a href="https://github.com/Pup-Pup-Games/Sleddog-Feedback/issues/new?template=bug_report.yml"><strong>Report a bug</strong></a> ·
+  <a href="https://github.com/Pup-Pup-Games/Sleddog-Feedback/issues/new?template=feature_request.yml"><strong>Request a feature</strong></a> ·
   <a href="https://github.com/orgs/Pup-Pup-Games/projects/1"><strong>See the roadmap</strong></a>
 </p>
 
@@ -19,10 +19,10 @@ source; this is its front door.
 
 | What you have | Where it goes |
 |---|---|
-| Something is broken | [Bug report](https://github.com/Pup-Pup-Games/sleddog-feedback/issues/new?template=bug_report.yml) |
-| Something should exist | [Feature request](https://github.com/Pup-Pup-Games/sleddog-feedback/issues/new?template=feature_request.yml) |
+| Something is broken | [Bug report](https://github.com/Pup-Pup-Games/Sleddog-Feedback/issues/new?template=bug_report.yml) |
+| Something should exist | [Feature request](https://github.com/Pup-Pup-Games/Sleddog-Feedback/issues/new?template=feature_request.yml) |
 | Account, billing, or "please delete my data" | **support@puppup.games** — never a public issue |
-| A security vulnerability | [Private security advisory](https://github.com/Pup-Pup-Games/sleddog-feedback/security/advisories/new) |
+| A security vulnerability | [Private security advisory](https://github.com/Pup-Pup-Games/Sleddog-Feedback/security/advisories/new) |
 | Help authoring community content | [SledDog-Community-Content](https://github.com/Pup-Pup-Games/SledDog-Community-Content/issues) |
 
 > **This tracker is public.** Anything you type here can be read by anyone.
