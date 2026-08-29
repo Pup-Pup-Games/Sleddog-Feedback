@@ -18,7 +18,7 @@ body:
     attributes:
       label: What happened?
       description: Describe the problem in a sentence or two.
-      placeholder: When I marked harm on my character, the sheet showed the wrong total.
+      placeholder: When I navigate to my character, the sheet showed the wrong total.
     validations:
       required: true
 
@@ -29,9 +29,8 @@ body:
       description: What you did, in order. Even a rough list helps a lot.
       placeholder: |
         1. Open my character sheet
-        2. Tap the harm track
-        3. Mark 2 harm
-        4. The total reads 3
+        2. Got to the stats page
+        3. View the DEX stat
     validations:
       required: true
 

@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/Pup-Pup-Games/sleddog-feedback/issues/new?template=bug_report.yml"><strong>Report a bug</strong></a> ·
   <a href="https://github.com/Pup-Pup-Games/sleddog-feedback/issues/new?template=feature_request.yml"><strong>Request a feature</strong></a> ·
-  <a href="https://github.com/orgs/Pup-Pup-Games/projects"><strong>See the roadmap</strong></a>
+  <a href="https://github.com/orgs/Pup-Pup-Games/projects/1"><strong>See the roadmap</strong></a>
 </p>
 
 ---
@@ -49,7 +49,7 @@ between one person's papercut and everyone's.
   <a href="https://sleddog.tools"><strong>sleddog.tools</strong></a>
 </p>
 
-Sled Dog is a campaign manager for *Stonetop*: fast character sheets, party
+Sled Dog is a campaign manager for TTRPGs like *Stonetop*: fast character sheets, party
 inventory and supplies, the shared steading, and a map that tells you how far the
 road is and how much food to pack. Built to be used *during* play, on a phone, at
 the table.
