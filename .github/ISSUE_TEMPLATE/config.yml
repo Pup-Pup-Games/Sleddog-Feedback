@@ -1,0 +1,21 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Account, billing, or data deletion
+    url: mailto:support@puppup.games
+    about: Anything involving your account, payment, or personal data. This tracker is public — email us instead and we'll handle it privately.
+
+  - name: Privacy or data-deletion request
+    url: mailto:privacy@puppup.games
+    about: Ask us to export or delete your data. Handled privately, never in a public issue.
+
+  - name: Report a security vulnerability
+    url: https://github.com/Pup-Pup-Games/sleddog-feedback/security/advisories/new
+    about: Please report privately through a security advisory rather than opening a public issue.
+
+  - name: Community content — help with a submission
+    url: https://github.com/Pup-Pup-Games/SledDog-Community-Content/issues
+    about: Questions about authoring arcana, items, NPCs, or expeditions, or a validator that won't go green.
+
+  - name: What we're working on
+    url: https://github.com/orgs/Pup-Pup-Games/projects
+    about: The public roadmap. Worth a look before filing — it may already be planned.

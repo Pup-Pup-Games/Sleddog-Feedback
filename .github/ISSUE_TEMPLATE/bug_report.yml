@@ -1,0 +1,106 @@
+name: Bug report
+description: Something in Sled Dog isn't working the way it should.
+title: "[Bug]: "
+labels: ["bug", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report this — it genuinely helps.
+
+        **Please don't post personal information here.** This repository is
+        public. For anything involving your account, your email address, payment
+        details, or a request to delete your data, email
+        **support@puppup.games** instead.
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Describe the problem in a sentence or two.
+      placeholder: When I marked harm on my character, the sheet showed the wrong total.
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: What you did, in order. Even a rough list helps a lot.
+      placeholder: |
+        1. Open my character sheet
+        2. Tap the harm track
+        3. Mark 2 harm
+        4. The total reads 3
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect instead?
+    validations:
+      required: false
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: Where in the app?
+      options:
+        - Character sheet
+        - Party / roster
+        - The steading
+        - Map, travel, or supplies
+        - Inventory / followers
+        - Content library or community content
+        - Signing in
+        - Supporter / billing
+        - Somewhere else, or not sure
+    validations:
+      required: true
+
+  - type: dropdown
+    id: system
+    attributes:
+      label: Which game system?
+      options:
+        - Stonetop
+        - Forged in the Dark
+        - Not sure / not relevant
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: App version
+      description: The version number at the bottom of any page in the app (looks like `26.8.71`).
+      placeholder: "26.8.71"
+    validations:
+      required: false
+
+  - type: input
+    id: device
+    attributes:
+      label: Device and browser
+      placeholder: iPhone 14, Safari — or Windows 11, Chrome
+    validations:
+      required: false
+
+  - type: textarea
+    id: extra
+    attributes:
+      label: Screenshots or anything else
+      description: Drag images straight into this box. Please blur or crop anything personal first.
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Before you submit
+      options:
+        - label: I've checked that this isn't already reported in [open issues](https://github.com/Pup-Pup-Games/sleddog-feedback/issues).
+          required: true
+        - label: This report contains no personal, account, or payment information.
+          required: true

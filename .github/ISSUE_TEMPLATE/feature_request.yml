@@ -1,0 +1,70 @@
+name: Feature request
+description: Suggest something Sled Dog should be able to do.
+title: "[Feature]: "
+labels: ["enhancement", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Ideas from people who actually run the game are the best input we get.
+
+        One ask: **lead with the problem, not the solution.** Knowing what you
+        were trying to do at the table often points somewhere better than the
+        feature we'd both have guessed at first.
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What were you trying to do?
+      description: The situation at the table, and what got in the way.
+      placeholder: >
+        Mid-session I wanted to hand a follower to another player, but I had to
+        delete it and retype the whole thing on their sheet.
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: What would you like to see?
+      description: Optional — a rough idea is fine, and "I don't know, just something better" is a valid answer.
+    validations:
+      required: false
+
+  - type: dropdown
+    id: who
+    attributes:
+      label: Who does this help?
+      options:
+        - Players
+        - GMs
+        - Both
+    validations:
+      required: true
+
+  - type: dropdown
+    id: system
+    attributes:
+      label: Which game system?
+      options:
+        - Stonetop
+        - Forged in the Dark
+        - Any / not system-specific
+    validations:
+      required: true
+
+  - type: textarea
+    id: workaround
+    attributes:
+      label: How do you handle it today?
+      description: Paper, a spreadsheet, a workaround in the app — useful for judging how much this hurts.
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Before you submit
+      options:
+        - label: I've checked that this isn't already suggested in [open issues](https://github.com/Pup-Pup-Games/sleddog-feedback/issues).
+          required: true
