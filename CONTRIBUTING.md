@@ -14,10 +14,10 @@ information, invoice numbers, or screenshots showing any of those. Also think
 twice about screenshots of your table's private campaign notes — your players
 may not expect them to be public.
 
-Anything in that category goes to **support@puppup.games** (or
-**privacy@puppup.games** for a data export or deletion request), where we can
-handle it properly. You will not get a slower answer for using email; if
-anything you'll get a faster one.
+Anything in that category goes through the [contact form](https://sleddog.tools/contact) — pick
+*Delete my account / my data* for an export or deletion request — where we can
+handle it properly. You will not get a slower answer for using it; if anything
+you'll get a faster one.
 
 Found a security vulnerability? Please use a
 [private security advisory](https://github.com/Pup-Pup-Games/Sleddog-Feedback/security/advisories/new),

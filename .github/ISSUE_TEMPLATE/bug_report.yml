@@ -10,8 +10,8 @@ body:
 
         **Please don't post personal information here.** This repository is
         public. For anything involving your account, your email address, payment
-        details, or a request to delete your data, email
-        **support@puppup.games** instead.
+        details, or a request to delete your data, use the
+        [contact form](https://sleddog.tools/contact) instead.
 
   - type: textarea
     id: what-happened

@@ -21,14 +21,14 @@ source; this is its front door.
 |---|---|
 | Something is broken | [Bug report](https://github.com/Pup-Pup-Games/Sleddog-Feedback/issues/new?template=bug_report.yml) |
 | Something should exist | [Feature request](https://github.com/Pup-Pup-Games/Sleddog-Feedback/issues/new?template=feature_request.yml) |
-| Account, billing, or "please delete my data" | **support@puppup.games** — never a public issue |
+| Account, billing, or "please delete my data" | [Contact form](https://sleddog.tools/contact) — never a public issue |
 | A security vulnerability | [Private security advisory](https://github.com/Pup-Pup-Games/Sleddog-Feedback/security/advisories/new) |
 | Help authoring community content | [SledDog-Community-Content](https://github.com/Pup-Pup-Games/SledDog-Community-Content/issues) |
 
 > **This tracker is public.** Anything you type here can be read by anyone.
 > Please keep account details, email addresses, payment information, and
-> unblurred screenshots of your table's private notes out of it — mail us
-> instead and we'll deal with it properly.
+> unblurred screenshots of your table's private notes out of it — use the
+> [contact form](https://sleddog.tools/contact) instead and we'll deal with it properly.
 
 ## What happens to your issue
 

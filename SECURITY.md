@@ -4,7 +4,7 @@
 
 **Please don't open a public issue for a security problem.** Use a
 [private security advisory](https://github.com/Pup-Pup-Games/Sleddog-Feedback/security/advisories/new)
-instead, or email **security@puppup.games** if you'd rather not use GitHub.
+instead, or the [contact form](https://sleddog.tools/contact) if you'd rather not use GitHub.
 
 A public report is a working exploit handed to everyone who reads it before we've
 had a chance to ship a fix. A private one gives us that chance.

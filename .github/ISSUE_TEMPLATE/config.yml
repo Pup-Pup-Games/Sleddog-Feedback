@@ -1,11 +1,11 @@
 blank_issues_enabled: false
 contact_links:
   - name: Account, billing, or data deletion
-    url: mailto:support@puppup.games
-    about: Anything involving your account, payment, or personal data. This tracker is public — email us instead and we'll handle it privately.
+    url: https://sleddog.tools/contact?topic=support
+    about: Anything involving your account, payment, or personal data. This tracker is public — use the contact form instead and we'll handle it privately.
 
   - name: Privacy or data-deletion request
-    url: mailto:privacy@puppup.games
+    url: https://sleddog.tools/contact?topic=privacy
     about: Ask us to export or delete your data. Handled privately, never in a public issue.
 
   - name: Report a security vulnerability
