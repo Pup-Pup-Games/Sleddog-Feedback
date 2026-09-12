@@ -2,6 +2,16 @@ name: Feature request
 description: Suggest something Sled Dog should be able to do.
 title: "[Feature]: "
 labels: ["enhancement", "needs-triage"]
+# Matches what the in-app form's bot sets on a report it files, so an issue is
+# sorted the same way whichever door it came through. The org Issue Type is a
+# separate axis from the labels above: labels are per-repo, types are defined
+# once for the org and are what issue search and the Projects boards filter on.
+type: Feature
+# GitHub drops an assignee without push access SILENTLY — no error, no warning,
+# just an unassigned issue. If reports start arriving unassigned, check this
+# account's access before looking anywhere else.
+assignees:
+  - Bodeman
 body:
   - type: markdown
     attributes:

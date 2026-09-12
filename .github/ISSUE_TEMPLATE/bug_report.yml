@@ -2,6 +2,16 @@ name: Bug report
 description: Something in Sled Dog isn't working the way it should.
 title: "[Bug]: "
 labels: ["bug", "needs-triage"]
+# Matches what the in-app form's bot sets on a report it files, so an issue is
+# sorted the same way whichever door it came through. The org Issue Type is a
+# separate axis from the labels above: labels are per-repo, types are defined
+# once for the org and are what issue search and the Projects boards filter on.
+type: Bug
+# GitHub drops an assignee without push access SILENTLY — no error, no warning,
+# just an unassigned issue. If reports start arriving unassigned, check this
+# account's access before looking anywhere else.
+assignees:
+  - Bodeman
 body:
   - type: markdown
     attributes:
